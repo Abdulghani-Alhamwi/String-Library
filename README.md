@@ -1,4 +1,4 @@
-# 🧵 C++ String Utility Library
+# 📝 C++ String Utility Library
 
  A Library for clean and reusable string manipulation.
 
