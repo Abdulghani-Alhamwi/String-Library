@@ -1,10 +1,8 @@
-# 🧵 String Library — C++ String Utility Library
+# 🧵 C++ String Utility Library
 
-> A lightweight, **header-only** C++ library for clean and reusable string manipulation.
+ A Library for clean and reusable string manipulation.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Header Only](https://img.shields.io/badge/Header--Only-%E2%9C%93-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 ---
 
