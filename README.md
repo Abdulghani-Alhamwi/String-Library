@@ -1,6 +1,6 @@
-# 📝 C++ String Utility Library
+# 📝 C++ String Library
 
- A Library for clean and reusable string manipulation.
+ A String Utility Library for clean and reusable string manipulation.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
